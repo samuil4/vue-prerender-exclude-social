@@ -1,6 +1,6 @@
 {
   "name": "vue-prerender-exclude-social",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A components that excludes social and tracking codes from pre-rendering usin the prerender-spa-plugin",
   "author": {
     "name": "Samuil Gospodinov",
