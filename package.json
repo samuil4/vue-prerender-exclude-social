@@ -1,0 +1,34 @@
+{
+  "name": "vue-prerender-exclude-social",
+  "version": "1.0.0",
+  "description": "A components that excludes social and tracking codes from pre-rendering usin the prerender-spa-plugin",
+  "author": {
+    "name": "Samuil Gospodinov",
+    "email": "samuil@sixmart.tech",
+    "url": "https://github.com/samuil4/"
+  },
+  "keywords": [
+    "prerender",
+    "spa",
+    "ssr",
+    "serverside-rendering"
+  ],
+  "repository": "samuil4/vue-prerender-exclude-social",
+  "bugs": {
+    "url": "https://github.com/samuil4/vue-prerender-exclude-social/issues",
+    "email": "samuil@sixmart.tech"
+  },
+  "private": false,
+  "main": "index.js",
+  "license": "Unlicense",
+  "dependencies": {
+    "prerender-spa-plugin": "^3.2.1",
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
